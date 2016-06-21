@@ -5,4 +5,6 @@ Essa é uma aplicação feita em Python 2 e Tkinter (módulo padrão do Python p
 
 A aplicação é um compactador de arquivos.
 
+![alt tag](https://raw.githubusercontent.com/marcoscastro/compactador_arquivos/master/compactador.PNG)
+
 Dúvidas? mcastrosouza@live.com
