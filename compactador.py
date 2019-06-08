@@ -1,5 +1,5 @@
 # coding: utf-8
-
+  
 # Módulo compactador
 # Esse módulo tem como objetivo compactor arquivos no formato ZIP
 # Autor: Marcos Castro
