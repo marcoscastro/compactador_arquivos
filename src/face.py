@@ -101,8 +101,8 @@ class Aplicacao:
 
 
 root = Tk() # obtém uma instância de Tk
-root.title("Compactador de arquivos") # coloca um titulo na janela
-root.iconbitmap(default="icone.ico") # coloca um icone
+root.title("Compactador de Arquivos El") # coloca um título na janela
+root.iconbitmap(default="icone.ico") # coloca um ícone
 root.geometry('400x300') # ajusta o tamanho
 root.resizable(width=FALSE, height=FALSE) # desabilita o redimensionamento da janela
 Aplicacao(root) # passa instancia de Tk para classe Aplicacao
