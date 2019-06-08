@@ -1,4 +1,4 @@
-# Compactador de arquivos
+# Compactador de arquivos El
 Compactador de arquivos feito em Python e Tkinter.
 
 Essa é uma aplicação feita em Python 2 e Tkinter (módulo padrão do Python para interface gráfica).
